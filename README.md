@@ -10,11 +10,7 @@
 ### 体验地址：https://aien.leikeduntech.com
 ### 注册即可免费试用，支持SaaS订阅服务私有化部署，查看<a href="https://aien.leikeduntech.com/pay">定价详情</a>。
 
-### ------------------------------微信---------------------------------------QQ-----------
-<div style="height: 300px;display: inline-block;">
-<img style="height:300px;margin-left:100px;" alt="author" src="docs/img/wx-author.JPG">
+### ---------------微信-----------------------------QQ------------
+<div style="height: 300px;">
+<img style="height:300px;" alt="author" src="docs/img/author-wx-qq.png">
 </div>
-<div style="width: 300px;display: inline-block;">
-<img style="height:300px;margin-left:50px;" alt="author" src="docs/img/qq-author.JPG">
-</div>
-
