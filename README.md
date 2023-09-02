@@ -7,10 +7,10 @@
  - 支持国际版和国内版
  - 支持SaaS订阅服务私有化部署
 
-### 体验地址：https://aien.leikeduntech.com
-### 注册即可免费试用，支持SaaS订阅服务私有化部署，查看<a href="https://aien.leikeduntech.com/pay">定价详情</a>。
+### 体验地址：https://en.leikeduntech.com
+### 注册即可免费试用，支持SaaS订阅服务私有化部署，查看<a href="https://ai.leikeduntech.com/pay">定价详情</a>。
 
-### ---------------微信-----------------------------QQ------------
+### ------------微信-------------------------QQ------------
 <div style="height: 300px;">
 <img style="height:300px;" alt="author" src="docs/img/author-wx-qq.png">
 </div>
