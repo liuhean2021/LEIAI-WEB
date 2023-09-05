@@ -18,8 +18,8 @@
  - 启动项目：pnpm start
    - 初始化创建super用户成功、用户名为[super]、初始密码为[lei-super]
    - 初始化创建admin用户成功、用户名为[admin]、初始密码为[123456]
- - 访问浏览器：http://你的服务器IP:9520、后台 http://你的服务器IP:9520/leiai/admin
- - Nginx或Apache服务器用你的域名http://yourdomain.com配置反向代理指向127.0.0.1:9520，然后用域名访问
+ - 访问浏览器：你的服务器IP:9520、后台 你的服务器IP:9520/leiai/admin
+ - Nginx或Apache服务器用你的域名yourdomain.com配置反向代理指向127.0.0.1:9520，然后用域名访问
 
 ### ------------微信-------------------------QQ------------
 <div style="height: 300px;">
