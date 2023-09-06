@@ -25,3 +25,8 @@
 <div style="height: 300px;">
 <img style="height:300px;" alt="author" src="docs/img/author-wx-qq.png">
 </div>
+
+### 部分页面截图
+<img style="height:300px;" alt="modelswitch" src="docs/img/modelswitch.png">
+<img style="height:300px;" alt="chatmodel" src="docs/img/chatmodel.png">
+<img style="height:300px;" alt="mjdraw" src="docs/img/mjdraw.png">
