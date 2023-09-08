@@ -6,8 +6,13 @@
  - 支持Midjourney绘画
  - 支持SaaS订阅服务私有化部署
 
-### 体验地址：https://ai.leikeduntech.com
-### 注册即可免费试用，支持SaaS订阅服务私有化部署，查看<a href="https://ai.leikeduntech.com/pay">定价详情</a>。
+### Demo演示系统地址：https://demoai.leikeduntech.com
+<ul>
+<li>本站是Demo系统，仅提供功能演示作用</li>
+<li>私有化部署价格详情<a href="http://demoai.leikeduntech.com/pay" style="color:#6c90e3;">点击跳转会员页面</a></li>
+<li>用户端demo用户名：user 密码：123456 地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
+<li>管理端demo用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
+</ul>
 
 ### 开放版本leiai-v2.9.0部署说明
  - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache
