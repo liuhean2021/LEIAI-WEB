@@ -37,8 +37,11 @@
 <li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
 </ul>
 
+### 雷AI系统开发计划
+ - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwkxivai4GRx2UVxlKmT?scode=AAQAlQdCABgooGf0QvAfEA4Ab5APw
+
 ### 查看更新记录
- - <a href="https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&&" target="_blank">https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&& </a>
+ - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
 
 ### 开放版本leiai-v2.9.0部署说明
  - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache、MySQL、Redis
