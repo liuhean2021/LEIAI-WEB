@@ -1,5 +1,13 @@
 # LeiAI-WEB
 
+### 项目优势
+ - 支持商业运营、从用户、营销、商品、支付、订单、分销提成全流程管理
+ - 支持全功能国际版、中国合规版
+ - 大模型扩展自由可控
+ - 企业服务，保障持续更新
+ - 售后1对1服务：保障项目部署功能访问正常
+ - 帮助与支持：客服联系方式请滑到底部查看
+
 ### 主要功能，以下为全功能国际版，另提供国内合规版
  - 支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本。
  - 支持大模型自定义控制显示关闭
@@ -21,7 +29,7 @@
  - 风控管理：支持自定义敏感词、百度敏感词
  - 以上只是部分功能，更多功能请访问演示系统探索
 
-### Demo演示系统地址：https://demoai.leikeduntech.com
+### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
 <ul>
 <li>本站是Demo系统，仅作为功能演示作用</li>
 <li>私有化部署价格详情<a href="http://demoai.leikeduntech.com/pay" style="color:#6c90e3;">点击跳转会员页面</a></li>
@@ -30,7 +38,7 @@
 </ul>
 
 ### 查看更新记录
- - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&&
+ - <a href="https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&&" target="_blank">https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&& </a>
 
 ### 开放版本leiai-v2.9.0部署说明
  - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache、MySQL、Redis
