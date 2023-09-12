@@ -7,6 +7,7 @@
  - 企业服务，保障持续更新
  - 售后1对1服务：保障项目部署功能访问正常
  - 帮助与支持：客服联系方式请滑到底部查看
+ - 私有化部署价格详情<a href="http://demoai.leikeduntech.com/pay" style="color:#6c90e3;">点击跳转会员页面</a>
 
 ### 主要功能，以下为全功能国际版，另提供国内合规版
  - 支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本。
@@ -32,7 +33,6 @@
 ### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
 <ul>
 <li>本站是Demo系统，仅作为功能演示作用</li>
-<li>私有化部署价格详情<a href="http://demoai.leikeduntech.com/pay" style="color:#6c90e3;">点击跳转会员页面</a></li>
 <li>用户端演示用户名：user 密码：123456 地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
 <li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
 </ul>
