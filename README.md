@@ -33,7 +33,7 @@
  - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABg6y5gGvtAfEA4Ab5APw&force_open_in_wx=1&&
 
 ### 开放版本leiai-v2.9.0部署说明
- - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache
+ - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache、MySQL、Redis
  - 拉取本仓库到服务器
  - 进入目录：leiai-v2.9.0
  - 复制.env.example为配置文件.env 并修改数据库和redis
