@@ -48,17 +48,6 @@
 ### 查看更新记录
  - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
 
-### 开放版本leiai-v2.9.0部署说明
- - 环境依赖：node v18.16.1、pm2、pnpm、Nginx或Apache、MySQL、Redis
- - 拉取本仓库到服务器
- - 进入目录：leiai-v2.9.0
- - 复制.env.example为配置文件.env 并修改数据库和redis
- - 安装依赖：pnpm install
- - 启动项目：pnpm start
-   - 初始化创建super用户成功、用户名为[super]、初始密码为[lei-super]
-   - 初始化创建admin用户成功、用户名为[admin]、初始密码为[123456]
- - 访问浏览器：你的服务器IP:9520、后台 你的服务器IP:9520/leiai/admin
- - Nginx或Apache服务器用你的域名yourdomain.com配置反向代理指向127.0.0.1:9520，然后用域名访问
 
 ### ------------微信-------------------------QQ------------
 <div style="height: 300px;">
