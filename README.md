@@ -50,12 +50,6 @@
 ### 查看更新记录
  - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
 
-
-### ------------微信-------------------------QQ------------
-<div style="height: 300px;">
-<img style="height:300px;" alt="author" src="docs/img/author-wx-qq.png">
-</div>
-
 ### 部分页面截图
 <img style="height:300px;" alt="modelswitch" src="docs/img/modelswitch.png">
 <img style="height:300px;" alt="chatmodel" src="docs/img/chatmodel.png">
