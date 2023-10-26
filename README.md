@@ -1,7 +1,7 @@
 # LeiAI-WEB
 
 
-### 最新版本： leiai-v4.3.0(20231010发布)
+### 最新版本： leiai-v4.4.0(20231026发布)
 
 ### 项目优势
  - 支持商业运营、从用户、营销、商品、支付、订单、分销提成全流程管理
@@ -14,7 +14,7 @@
  - 私有化部署价格详情<a href="http://demoai.leikeduntech.com/pay" style="color:#6c90e3;">点击跳转会员页面</a>
 
 ### 主要功能，以下为全功能国际版，另提供国内合规版
- - 支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本。
+ - ●支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V2版本，腾讯混元大模型
  - 支持大模型自定义控制显示关闭
  - 支持系统预设助手、用户自定义预设助手
  - 支持Midjourney绘画、绘画广场展示
@@ -49,8 +49,3 @@
 
 ### 查看更新记录
  - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
-
-### 部分页面截图
-<img style="height:300px;" alt="modelswitch" src="docs/img/modelswitch.png">
-<img style="height:300px;" alt="chatmodel" src="docs/img/chatmodel.png">
-<img style="height:300px;" alt="mjdraw" src="docs/img/mjdraw.png">
