@@ -44,6 +44,9 @@
 <li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
 </ul>
 
+### 雷AI系统功能与定价
+- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwFBBl5KTgQ5SAeGP47D?scode=AAQAlQdCABg8A6uB9OAfEA4Ab5APw
+
 ### 雷AI系统开发计划
  - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwkxivai4GRx2UVxlKmT?scode=AAQAlQdCABgooGf0QvAfEA4Ab5APw
 
