@@ -14,6 +14,23 @@
  - 帮助与支持：客服联系方式请滑到底部查看
  - 私有化部署价格详情请继续滑到文档后面
 
+### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
+<ul>
+<li>本站是Demo系统，仅作为功能演示作用</li>
+<li>用户端演示用户名：user 密码：123456 地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
+<li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
+</ul>
+
+### 雷AI系统功能与定价
+- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwFBBl5KTgQ5SAeGP47D?scode=AAQAlQdCABg8A6uB9OAfEA4Ab5APw
+
+### 雷AI系统开发计划
+- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwkxivai4GRx2UVxlKmT?scode=AAQAlQdCABgooGf0QvAfEA4Ab5APw
+
+### 查看更新记录
+- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
+
+
 ### 主要功能，以下为全功能国际版，另提供国内合规版
  - 支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V3版本，腾讯混元大模型
  - 支持大模型自定义控制显示关闭
@@ -46,19 +63,3 @@
  - 新增支持手机端Midjourney局部重绘功能(Vary Region 局部重绘)【V4.1.0版本开始支持】
  - 支持单机多重部署，最高16套/台机器
  - 以上只是部分功能，更多功能请访问演示系统探索
-
-### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
-<ul>
-<li>本站是Demo系统，仅作为功能演示作用</li>
-<li>用户端演示用户名：user 密码：123456 地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
-<li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
-</ul>
-
-### 雷AI系统功能与定价
-- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwFBBl5KTgQ5SAeGP47D?scode=AAQAlQdCABg8A6uB9OAfEA4Ab5APw
-
-### 雷AI系统开发计划
- - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwkxivai4GRx2UVxlKmT?scode=AAQAlQdCABgooGf0QvAfEA4Ab5APw
-
-### 查看更新记录
- - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
