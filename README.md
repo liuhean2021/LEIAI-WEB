@@ -24,9 +24,6 @@
 ### 雷AI系统功能与定价
 - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwFBBl5KTgQ5SAeGP47D?scode=AAQAlQdCABg8A6uB9OAfEA4Ab5APw
 
-### 雷AI系统开发计划
-- https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwkxivai4GRx2UVxlKmT?scode=AAQAlQdCABgooGf0QvAfEA4Ab5APw
-
 ### 查看更新记录
 - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
 
