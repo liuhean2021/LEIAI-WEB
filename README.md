@@ -17,8 +17,8 @@
 ### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
 <ul>
 <li>本站是Demo系统，仅作为功能演示作用</li>
-<li>用户端演示用户名：user 密码：123456 地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
-<li>管理端演示用户名：admin 密码：123456 地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
+<li>用户端地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
+<li>管理端地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
 </ul>
 
 ### 雷AI系统功能与定价
