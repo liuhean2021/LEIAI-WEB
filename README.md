@@ -4,30 +4,29 @@
 ### 最新版本： leiai-v5.2.0(20231224发布)
 
 ### 项目优势
- - 支持商业运营、从用户、营销、商品、支付、订单、分销提成全流程管理
- - 支持全功能国际版、中国合规版
- - 大模型管理自由可控，及时跟进国内外大模型更新支持
- - 支持插件系统，可持续扩展模型能力
- - 支持知识库，自行上传文档训练领域知识对话
- - 支持上传文档，总结文档内容对话
- - Midjourney绘画支持高并发账号池系统、局部重绘等
- - 企业服务，保障持续更新
+  - 支持商业运营，从用户、营销、商品、支付、订单、分销提成全流程管理
+  - 大模型管理自由可控，及时跟进国内外大模型更新支持
+  - 支持插件系统，可持续扩展模型能力
+  - 支持知识库，自行上传文档训练领域知识对话
+  - 支持上传文档，总结文档内容对话
+  - Midjourney绘画支持高并发多账号系统、局部重绘等全部功能
+  - 企业服务，保障持续更新
 
-### Demo演示系统地址：<a href="https://demoai.leikeduntech.com" target="_blank">https://demoai.leikeduntech.com</a>
+### Demo演示系统
 <ul>
-<li>本站是Demo系统，仅作为功能演示作用</li>
-<li>用户端地址：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a></li>
-<li>管理端地址：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a></li>
+<li>Demo系统，仅作为功能演示作用</li>
+<li>用户端：<a href="http://demoai.leikeduntech.com" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com</a>  自行注册账号试用</li>
+<li>管理端：<a href="http://demoai.leikeduntech.com/leiai/admin" style="color:#6c90e3;" target="_blank">demoai.leikeduntech.com/leiai/admin</a>  账密：admin/123456</li>
 </ul>
 
-### 雷AI系统功能与定价
+### 雷AI功能与定价
 - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwFBBl5KTgQ5SAeGP47D?scode=AAQAlQdCABg8A6uB9OAfEA4Ab5APw
 
 ### 查看更新记录
 - https://doc.weixin.qq.com/doc/w3_AfEA4Ab5APwK8WF6U9iRCiwzhyKHq?scode=AAQAlQdCABgah3XVZWAfEA4Ab5APw
 
 
-### 主要功能，以下为全功能国际版，另提供国内合规版
+### 主要功能
   - 支持微软OpenAI/Azure GPT-3.5 GPT-4，百度文心一言，阿里通义千问，清华智谱ChatGLM，科大讯飞星火认知大模型V3版本，腾讯混元大模型
   - 支持大模型自定义控制显示关闭
   - 支持配置每个大模型的消耗费率
